@@ -1,0 +1,18 @@
+.menu{
+    display:flex;   
+    justify-content: space-between;
+   }
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+.grid img{
+ border: 2px solid black;
+ border-radius: 50px;
+}
+.orgami{
+    border-radius: 20x;  
+    background-color: white;
+    width:310px;
+    font-family:fantasy;
+}
